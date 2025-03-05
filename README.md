@@ -1,2 +1,3 @@
-![Переглянути відео](https://github.com/Reap4ick/MobileFULL/blob/main/assets/video5352738825275728165.gif?raw=true)
-![Переглянути відео](/assets/video5352738825275728165.mp4)
+<p align="center">
+  <img src="https://github.com/Reap4ick/MobileFULL/blob/main/assets/video5352738825275728165.gif?raw=true" alt="Типо як воно роботає"/>
+</p>
